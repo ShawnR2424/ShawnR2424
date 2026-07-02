@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ShawnR2424
-- 👀 I’m interested in business analytics and data engineering
-- 🌱 I’m currently learning ETL setup in Python
-- 💞️ I’m looking to collaborate on data analysis projects for companies (aka a job!)
-- 📫 Reach me: https://www.linkedin.com/in/sr862/
-
+- 👋 Hi, I'm Shawn — a Business Intelligence Analyst and Data Engineer
+- 🔧 I work across the full data stack: Airbyte → dbt → Snowflake → Sigma → Hightouch
+- 📊 Day-to-day I build pipelines, write SQL and Python, and turn data into decisions for business stakeholders
+- 🎓 M.S. in Data Analytics (Data Engineering specialization), WGU
+- 🌱 Recently certified in dbt Fundamentals and Snowflake Data Warehousing; always adding tools to the belt
+- 💞️ Open to data engineering and analytics roles — especially ones where I get to manage the pipeline end-to-end
+- 📫 Let's connect: https://www.linkedin.com/in/sr862/
